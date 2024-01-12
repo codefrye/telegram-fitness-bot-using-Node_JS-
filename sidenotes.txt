@@ -1,0 +1,8 @@
+telegram token-6242308674:AAGAVYODH9b3e7cyNKwVKzyZEjBe90Hxu5w
+
+resusable snippets:-
+if (message.text === '/'){
+        let msg= ``
+         console.log(msg)
+        bot.sendMessage(chatid,msg)
+    }
